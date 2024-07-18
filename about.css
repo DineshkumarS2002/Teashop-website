@@ -1,0 +1,81 @@
+
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+.head{
+    background-image: url(img/carousel-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.green-box{
+  width: 100%;
+  height: 330px
+}
+.sec3{
+  background-color:#252c30 !important;
+ }
+
+ .sec3 .footer .foot h3{
+  color: #88b44e;
+  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  overflow-y: hidden;
+}
+.sec3 .footer .foot P{
+  color: #B0B9AE;
+  font-size: 16px;
+  
+}
+
+.sec3form{
+  display: flex;
+  width: 250px;
+  height: 50px;
+  border: 1px solid #B0B9AE;
+  border-radius: 10px;
+}
+.sec3 .footer .foot input:focus {
+
+ background-color: transparent;
+ border: none;
+
+}
+input{
+  background-color: transparent;
+  border: none;
+}
+.sec3 button{
+  width: 120px;
+  height: 30px;
+  background-color: #88b44e;
+  border: #88b44e;
+  border-radius: 5px;
+  color: rgb(244, 244, 244);
+  margin-top: 5px;
+  font-size: 12px;
+}
+.sec4{
+  background-color: #111110;
+}
+.sec4 .end{
+  color: #B0B9AE;
+  font-size: 12px;
+   font-family: 'Open Sans', sans-serif;
+}
+.sec4 .end span{
+  color: #88b44e;
+}
+.sec4 p{
+  color: #B0B9AE;
+  font-size: 14px;
+  font-family: 'Open Sans';
+  
+}
+
+  
+  
+  
